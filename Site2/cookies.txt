@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+service.force.com	TRUE	/	FALSE	1999999999	CookieConsentPolicy	0:0
+service.force.com	TRUE	/	FALSE	1999999999	LSKey-c$CookieConsentPolicy	0:0
+.force.com	TRUE	/	FALSE	1999999999	BrowserId	3gMTFlUZEe2AkjfVNvj1Lw
+lse360.my.salesforce.com	TRUE	/	FALSE	1999999999	CookieConsentPolicy	0:1
+lse360.my.salesforce.com	TRUE	/	FALSE	1999999999	LSKey-c$CookieConsentPolicy	0:1
+.salesforce.com	TRUE	/	FALSE	1999999999	BrowserId	3qbMdFUZEe2Yruk3o85veg
+
